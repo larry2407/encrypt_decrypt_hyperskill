@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Encryption-Decryption-task_main" target="11" />
+      <module name="Encryption-Decryption-task_test" target="11" />
+      <module name="Problems-Laptop_store_main" target="11" />
+      <module name="Problems-Laptop_store_test" target="11" />
+      <module name="Problems-Motors_main" target="11" />
+      <module name="Problems-Motors_test" target="11" />
+      <module name="Problems-Robot_main" target="11" />
+      <module name="Problems-Robot_test" target="11" />
+      <module name="util_main" target="11" />
+      <module name="util_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

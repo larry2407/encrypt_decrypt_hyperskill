@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Encryption-Decryption.iml" filepath="$PROJECT_DIR$/.idea/Encryption-Decryption.iml" group="Encryption-Decryption" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Encryption-Decryption/task/Encryption-Decryption-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Encryption-Decryption/task/Encryption-Decryption-task.iml" group="Encryption-Decryption/Encryption-Decryption-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Encryption-Decryption/task/Encryption-Decryption-task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Encryption-Decryption/task/Encryption-Decryption-task_main.iml" group="Encryption-Decryption/Encryption-Decryption-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Encryption-Decryption/task/Encryption-Decryption-task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Encryption-Decryption/task/Encryption-Decryption-task_test.iml" group="Encryption-Decryption/Encryption-Decryption-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Laptop store/Problems-Laptop_store.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Laptop store/Problems-Laptop_store.iml" group="Encryption-Decryption/Problems-Laptop_store" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Laptop store/Problems-Laptop_store_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Laptop store/Problems-Laptop_store_main.iml" group="Encryption-Decryption/Problems-Laptop_store" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Laptop store/Problems-Laptop_store_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Laptop store/Problems-Laptop_store_test.iml" group="Encryption-Decryption/Problems-Laptop_store" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Motors/Problems-Motors.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Motors/Problems-Motors.iml" group="Encryption-Decryption/Problems-Motors" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Motors/Problems-Motors_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Motors/Problems-Motors_main.iml" group="Encryption-Decryption/Problems-Motors" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Motors/Problems-Motors_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Motors/Problems-Motors_test.iml" group="Encryption-Decryption/Problems-Motors" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Robot/Problems-Robot.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Robot/Problems-Robot.iml" group="Encryption-Decryption/Problems-Robot" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Robot/Problems-Robot_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Robot/Problems-Robot_main.iml" group="Encryption-Decryption/Problems-Robot" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Robot/Problems-Robot_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Robot/Problems-Robot_test.iml" group="Encryption-Decryption/Problems-Robot" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Encryption-Decryption/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="Encryption-Decryption/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="Encryption-Decryption/util" />
+    </modules>
+  </component>
+</project>
